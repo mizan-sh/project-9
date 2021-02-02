@@ -1,0 +1,169 @@
+.main{
+    height: 800px;
+    width: 100%;
+    border: 2px solid red;
+}
+.fast{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    color: red;
+    text-align: center;
+}
+.second{
+    height: 600px;
+    width: 100%;
+    background-color: yellow;
+}
+.three{
+    height: 100px;
+    width: 100%;
+    background-color:blue;
+}
+.fast1{
+    height: 50px;
+    width: 30%;
+    background-color: black;
+    float: left;
+    font-size: 20px;
+}
+.fast2{
+    height: 50px;
+    width: 30%;
+    background-color:black;
+    float: right;
+    font-size: 20px;
+}
+.second1{
+    height: 600px;
+    width: 30%;
+    background-color: pink;
+    float: left;
+}
+.second2{
+    height: 600px;
+    width: 30%;
+    background-color:chartreuse;
+    float: right;
+}
+.mar{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    color: black;
+}
+.table{
+   height: 600px;
+   width: 100%;
+   text-align: center;
+   color:black;
+}
+
+.table2{
+    text-align: center;
+    color: blue;
+    margin-top: -150px;
+}
+.mar{
+    color: rgb(19, 15, 15);
+    font-size: 30px;
+}
+
+.magic{
+    height:50px;
+    width: 50%;
+    background-color: red;
+    text-align: center;
+    color:white;
+    
+}
+.magic:hover{
+
+    width: 100%;
+    background-color: green;
+}
+
+.magic1{
+    height:50px;
+    width: 50%;
+    background-color: red;
+    float: right;
+    text-align: center;
+    color: WHITE;
+    
+}
+.magic1:hover{
+
+    width: 100%;
+    background-color: green;
+}
+.para{
+   
+    column-count: 3;
+    color: blue;
+    text-align: justify
+    ;
+    
+    
+}
+span{
+    color: red;
+}
+h3{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-shadow: 2px 2px rgb(241, 17, 17);
+}
+.box{
+    border:1px solid red;
+    height: 400px;
+    width: 300px;
+   margin-left: 400px;
+   background-color: pink;
+   border-radius: 20%;
+}
+form{
+    margin-top: 150px;
+    text-align: center;
+    background-color: rosybrown;
+    color: rgb(7, 6, 6);
+}
+::placeholder{
+    background-color: blueviolet;
+    color: white;
+}
+#button{
+    background-color: blue;
+    color: green;
+    border-radius: 50%;
+}
+
+li{ 
+    
+    display: inline;
+    font-size: 25px;
+    padding: 100px;
+
+    width: 100%;
+    
+    
+    
+   
+}
+li a{
+    text-decoration: none;
+    background-color:blue;
+    color: white;  
+}
+.over{
+    border: 3px solid rgb(241, 20, 20);
+    height: 200px;
+    width: 300px;
+    color:blue;
+    overflow: scroll;
+
+}
